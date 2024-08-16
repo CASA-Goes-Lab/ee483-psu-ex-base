@@ -5,6 +5,10 @@ This template provides a boilerplate repository for developing ROS-based softwar
 ## How to use it
 Create a new repository on github.com while specifying the newly forked template repository as a template for your new repository.
 
+## Setting up your environment
+Ex0-Setup has the necessary information for you to set up your environment, i.e., create a VM with Ubuntu, install docker, install the duckietown-shell, and clone this template repo.
+**Ex0-Setup** instructions must be followed before starting the next exercises.
+
 ## Instruction for each exercise
 Each exercise has a set of Jupyter notebooks with detailed instructions about the tasks to be completed.
 The notebooks are inside the Exercise folder `ex<number>/notebooks`
