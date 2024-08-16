@@ -36,22 +36,27 @@ Your git repository will be where you manage your files and submit homeworks/lab
 
 - Go to the class repository template - https://github.com/CASA-Goes-Lab/ee483-psu-ex-base
 
-`Add picture of repository`
+![account-1](assets/ex0-images/github/git-ex-repo.png)
+--Something like the image above. The files in the image might differ a bit from the current repo.
 
-- Fork the repository
+- Copy repo template
 
-`Add picture of setting the name and setting it to private`
+<br><img src="assets/ex0-images/github/git-ex-repo-copy-template.png" style="width: 75%; height: auto;"></br>
+
+<br><img src="assets/ex0-images/github/git-ex-repo-copy-template2.png" style="width: 75%; height: auto;"></br>
+
 
 - Create your repository name as `<your_username>/your_name-ee483`
   - **Important:** Only use lowercase letters, numbers, and dashes when creating the name
 	- No spaces or special characters like &,#,etc
 - Select the private repository option
 
+<br><img src="assets/ex0-images/github/git-ex-repo-copy-template3.png" style="width: 75%; height: auto;"></br>
+
 ---
 
 ## 3. Share repository with instructor
 
-`Add picture of how to share the repository`
 - Share your repo with Instructor, TA, and LA
 	- Seetings-> Collaborators->Add People - romulo-goes, AdamDony, CollinRoss21 
 
