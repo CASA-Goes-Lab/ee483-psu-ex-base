@@ -16,10 +16,10 @@ Ex1-Training/ex1/ex_workspace/build
 Ex1-Training/ex1/ex_workspace/devel
 Ex1-Training/ex1/ex_workspace/logs
 
-Ex2-Sub-Launch/ex2/ex_workspace/.catkin_tools
-Ex2-Sub-Launch/ex2/ex_workspace/build
-Ex2-Sub-Launch/ex2/ex_workspace/devel
-Ex2-Sub-Launch/ex2/ex_workspace/logs
+Ex2-Pub-Launch/ex2/ex_workspace/.catkin_tools
+Ex2-Pub-Launch/ex2/ex_workspace/build
+Ex2-Pub-Launch/ex2/ex_workspace/devel
+Ex2-Pub-Launch/ex2/ex_workspace/logs
 
 
 Labs/Lab1-open-loopMM/lab1/ex_workspace/.catkin_tools
