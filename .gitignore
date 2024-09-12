@@ -21,6 +21,10 @@ Ex2-Pub-Launch/ex2/ex_workspace/build
 Ex2-Pub-Launch/ex2/ex_workspace/devel
 Ex2-Pub-Launch/ex2/ex_workspace/logs
 
+Ex3-Sub-Par/ex3/ex_workspace/.catkin_tools
+Ex3-Sub-Par/ex3/ex_workspace/build
+Ex3-Sub-Par/ex3/ex_workspace/devel
+Ex3-Sub-Par/ex3/ex_workspace/logs
 
 Labs/Lab1-open-loopMM/lab1/ex_workspace/.catkin_tools
 Labs/Lab1-open-loopMM/lab1/ex_workspace/build
