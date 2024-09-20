@@ -1,0 +1,12 @@
+<launch>
+<!-- <include file = "$(find pkg_name)/launch/launch_file_name.launch"/> -->
+
+<group ns = "node_name"> 
+<node pkg = "intern_pkg" name= "my_talker" type = "talker.py" output= "screen"/>
+<node pkg = "intern_pkg" name= "chatter" type = "chatter.py" output= "screen"/>
+<node pkg = "intern_pkg" name= "convert" type = "parameter.py" output= "screen"/>
+<param name = "mode" type="string" value="Portuguese"/>
+<!-- <node pkg= "rostopic" name= "rostopic" type= "rostopic" args= "echo chatter" output= "screen" /> -->
+</group>
+</launch>
+
