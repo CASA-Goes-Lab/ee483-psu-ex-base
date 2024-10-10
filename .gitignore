@@ -31,6 +31,13 @@ Ex3-Img-Proc/ex4/ex_workspace/build
 Ex3-Img-Proc/ex4/ex_workspace/devel
 Ex3-Img-Proc/ex4/ex_workspace/logs
 
+
+Ex5-Edge-Detect/ex5/ex_workspace/.catkin_tools
+Ex5-Edge-Detect/ex5/ex_workspace/build
+Ex5-Edge-Detect/ex5/ex_workspace/devel
+Ex5-Edge-Detect/ex5/ex_workspace/logs
+
+
 Labs/Lab1-open-loopMM/lab1/ex_workspace/.catkin_tools
 Labs/Lab1-open-loopMM/lab1/ex_workspace/build
 Labs/Lab1-open-loopMM/lab1/ex_workspace/devel
