@@ -41,6 +41,10 @@ Ex6-Coord-Transf/ex6/ex_workspace/build
 Ex6-Coord-Transf/ex6/ex_workspace/devel
 Ex6-Coord-Transf/ex6/ex_workspace/logs
 
+Ex7-Odom/ex7/ex_workspace/.catkin_tools
+Ex7-Odom/ex7/ex_workspace/build
+Ex7-Odom/ex7/ex_workspace/devel
+Ex7-Odom/ex7/ex_workspace/logs
 
 Labs/Lab1-open-loopMM/lab1/ex_workspace/.catkin_tools
 Labs/Lab1-open-loopMM/lab1/ex_workspace/build
