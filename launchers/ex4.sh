@@ -1,7 +1,7 @@
 #!/bin/bash
 
 HW_PACKAGE="ros_prog"
-HW_LAUNCH="ros_prog.launch"
+HW_LAUNCH="ex4.launch"
 
 source /environment.sh
 
@@ -15,6 +15,8 @@ dt-launchfile-init
 # NOTE: Use the variable DT_REPO_PATH to know the absolute path to your code
 # NOTE: Use `dt-exec COMMAND` to run the main process (blocking process)
 
+catkin build $HW_PACKAGE
+source /code/catkin_ws/devel/setup.bash
 # launching app
 roslaunch $HW_PACKAGE $HW_LAUNCH
 
