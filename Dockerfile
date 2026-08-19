@@ -1,7 +1,7 @@
 # parameters
-ARG REPO_NAME="ee483-psu-ex-base"
-ARG DESCRIPTION="ee483-psu-ex-base"
-ARG MAINTAINER="Romulo"
+ARG REPO_NAME="ex-repo"
+ARG DESCRIPTION="ex-repo"
+ARG MAINTAINER="YOUR NAME"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
