@@ -1,6 +1,6 @@
 # parameters
-ARG REPO_NAME="ex-repo"
-ARG DESCRIPTION="ex-repo"
+ARG REPO_NAME="ee483-psu-ex-base"
+ARG DESCRIPTION="ee483-psu-ex-base"
 ARG MAINTAINER="Romulo"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
@@ -69,8 +69,8 @@ RUN . /opt/ros/${ROS_DISTRO}/setup.sh && \
 
 # install launcher scripts
 # COPY ./ex3-recipe/launchers/. "${LAUNCH_PATH}/"
-COPY ./launchers/. "${LAUNCH_PATH}/"
-COPY ./launchers/default.sh "${LAUNCH_PATH}/"
+COPY ./launchers/ "${LAUNCH_PATH}/"
+COPY ./launchers "${LAUNCH_PATH}/"
 RUN dt-install-launchers "${LAUNCH_PATH}"
 
 # define default command

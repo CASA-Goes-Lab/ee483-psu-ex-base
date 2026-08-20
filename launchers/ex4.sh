@@ -1,7 +1,7 @@
 #!/bin/bash
 
 HW_PACKAGE="ros_prog"
-HW_LAUNCH="ros_prog.launch"
+HW_LAUNCH="ex4.launch"
 
 source /environment.sh
 

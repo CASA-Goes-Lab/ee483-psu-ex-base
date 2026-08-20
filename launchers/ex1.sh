@@ -1,7 +1,7 @@
 #!/bin/bash
 
 HW_PACKAGE="intern_pkg"
-HW_LAUNCH="ex1_launch.launch"
+HW_LAUNCH="ex1.launch"
 
 source /environment.sh
 
